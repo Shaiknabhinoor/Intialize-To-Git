@@ -1,0 +1,7 @@
+To push or upload the files into Github.
+There are 3 commands.
+They are:
+
+$git add .
+$git commit -am "intiate Commit"
+$git push
